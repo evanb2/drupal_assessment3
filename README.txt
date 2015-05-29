@@ -1,4 +1,23 @@
+Drupal Assessment 3: Cameron's Bakery
+By Evan Butler
+Date: May 29, 2015.
 
+Cameron's Bakery site with updated custom submodule to remove the subject field in user comments 
+and custom zen subtheme to hide the displayed username in the comments.
+
+Database Name: baseassessment
+    Username: bakery
+    Password: bakery
+
+Drupal Site Maintenance Account:
+    Username: bakery
+    Password: bakery
+    
+Example authenticated user:
+    Username: user
+    Password: 1234
+    
+    
 CONTENTS OF THIS FILE
 ---------------------
 
