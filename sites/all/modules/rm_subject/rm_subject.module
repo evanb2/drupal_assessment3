@@ -1,0 +1,9 @@
+<?php
+
+function rm_subject_form_alter(&$form, &$form_state, $form_id) {
+    if ($form_id == 'comment_form') {
+        print '<pre>';
+        print_r($form);
+        print '</pre>';
+    }
+}
