@@ -11,6 +11,6 @@ function bakery_user_menu() {
     return $items;
 }
 
-// function bakery_user_login($edit, $account, $category) {
-//     $_GET['destination'] = 'welcome_new_user';
-// }
+function welcome_new_user() {
+    return '<h1>Welcome! Sign our guestbook!</h1>';
+}
