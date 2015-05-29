@@ -1,0 +1,3 @@
+[submodule "sites/all/modules/sites/all/modules/subject"]
+	path = sites/all/modules/sites/all/modules/subject
+	url = https://github.com/evanb2/subjectModule.git
